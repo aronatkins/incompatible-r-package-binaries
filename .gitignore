@@ -1,3 +1,4 @@
 renv
 .Rprofile
 renv.lock
+.Rproj.user
